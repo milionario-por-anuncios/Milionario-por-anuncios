@@ -102,17 +102,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="elementor-widget-container">
 <style>
 .elementor-widget-video .elementor-widget-container{overflow:hidden;-webkit-transform:translateZ(0);transform:translateZ(0)}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}</style>		<div class="elementor-wrapper elementor-open-lightbox">
-<div class="elementor-custom-embed-image-overlay" data-elementor-open-lightbox="yes" data-elementor-lightbox="{&quot;type&quot;:&quot;video&quot;,&quot;videoType&quot;:&quot;youtube&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/embed\/XHOmBV4js_E?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0&quot;,&quot;modalOptions&quot;:{&quot;id&quot;:&quot;elementor-lightbox-578fafe3&quot;,&quot;entranceAnimation&quot;:&quot;&quot;,&quot;entranceAnimation_tablet&quot;:&quot;&quot;,&quot;entranceAnimation_mobile&quot;:&quot;&quot;,&quot;videoAspectRatio&quot;:&quot;169&quot;}}" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJ0eXBlIjoidmlkZW8iLCJ2aWRlb1R5cGUiOiJ5b3V0dWJlIiwidXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvZW1iZWRcL1hIT21CVjRqc19FP2ZlYXR1cmU9b2VtYmVkJnN0YXJ0JmVuZCZ3bW9kZT1vcGFxdWUmbG9vcD0wJmNvbnRyb2xzPTEmbXV0ZT0wJnJlbD0wJm1vZGVzdGJyYW5kaW5nPTAiLCJtb2RhbE9wdGlvbnMiOnsiaWQiOiJlbGVtZW50b3ItbGlnaHRib3gtNTc4ZmFmZTMiLCJlbnRyYW5jZUFuaW1hdGlvbiI6IiIsImVudHJhbmNlQW5pbWF0aW9uX3RhYmxldCI6IiIsImVudHJhbmNlQW5pbWF0aW9uX21vYmlsZSI6IiIsInZpZGVvQXNwZWN0UmF0aW8iOiIxNjkifX0%3D"></div>
-<iframe  sizes="(max-width: 1280px) 100vw, 1280px" width="1280" height="460" src="https://www.youtube.com/embed/mXyYmit1004" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="elementor-custom-embed-image-overlay" data-elementor-open-lightbox="yes" data-elementor-lightbox="{&quot;type&quot;:&quot;video&quot;,&quot;videoType&quot;:&quot;youtube&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/embed\/XHOmBV4js_E?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0&quot;,&quot;modalOptions&quot;:{&quot;id&quot;:&quot;elementor-lightbox-578fafe3&quot;,&quot;entranceAnimation&quot;:&quot;&quot;,&quot;entranceAnimation_tablet&quot;:&quot;&quot;,&quot;entranceAnimation_mobile&quot;:&quot;&quot;,&quot;videoAspectRatio&quot;:&quot;169&quot;}}" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJ0eXBlIjoidmlkZW8iLCJ2aWRlb1R5cGUiOiJ5b3V0dWJlIiwidXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvZW1iZWRcL1hIT21CVjRqc19FP2ZlYXR1cmU9b2VtYmVkJnN0YXJ0JmVuZCZ3bW9kZT1vcGFxdWUmbG9vcD0wJmNvbnRyb2xzPTEmbXV0ZT0wJnJlbD0wJm1vZGVzdGJyYW5kaW5nPTAiLCJtb2RhbE9wdGlvbnMiOnsiaWQiOiJlbGVtZW50b3ItbGlnaHRib3gtNTc4ZmFmZTMiLCJlbnRyYW5jZUFuaW1hdGlvbiI6IiIsImVudHJhbmNlQW5pbWF0aW9uX3RhYmxldCI6IiIsImVudHJhbmNlQW5pbWF0aW9uX21vYmlsZSI6IiIsInZpZGVvQXNwZWN0UmF0aW8iOiIxNjkifX0%3D">
+<picture><source srcset="https://i.ytimg.com/vi_webp/mXyYmit1004/maxresdefault.webp 1280w, https://pagespro.site/wp-content/webp-express/webp-images/uploads/2022/04/thumbfacebook-300x169.jpg.webp 300w, https://pagespro.site/wp-content/webp-express/webp-images/uploads/2022/04/thumbfacebook-1024x576.jpg.webp 1024w, https://pagespro.site/wp-content/webp-express/webp-images/uploads/2022/04/thumbfacebook-768x432.jpg.webp 768w" sizes="(max-width: 1280px) 100vw, 1280px" type="image/webp"><img src="https://pagespro.site/wp-content/uploads/2022/04/thumbfacebook.jpg" class="attachment-full size-full webpexpress-processed" alt="" loading="lazy" srcset="https://pagespro.site/wp-content/uploads/2022/04/thumbfacebook.jpg 1280w, https://pagespro.site/wp-content/uploads/2022/04/thumbfacebook-300x169.jpg 300w, https://pagespro.site/wp-content/uploads/2022/04/thumbfacebook-1024x576.jpg 1024w, https://pagespro.site/wp-content/uploads/2022/04/thumbfacebook-768x432.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" width="1280" height="720"></picture>														</div>
 </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-2ef23a26 elementor-align-center elementor-widget elementor-widget-button" data-id="2ef23a26" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
-<a href="https://sun.eduzz.com/1460812?a=23829759" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<a href="#" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">VOU MUDAR DE VIDA! QUERO ME INSCREVER</span>
+<span class="elementor-button-text">QUERO APRENDER TUDO SOBRE O FACEBOOK ADS</span>
 </span>
 </a>
 </div>
@@ -125,10 +125,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div class="elementor-element elementor-element-55fd79f6 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="55fd79f6" data-element_type="widget" data-widget_type="icon-list.default">
 <div class="elementor-widget-container">
-<link rel="stylesheet" href="https://pagespro.site/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"><ul class="elementor-icon-list-items">
+<link rel="stylesheet" href="https://pagespro.site/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
 <li class="elementor-icon-list-item">
 <span class="elementor-icon-list-icon">
-<span class="elementor-icon-list-text">7 DIAS DE GARANTIA! SEGURANÇA!</span>
+<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+<span class="elementor-icon-list-text">RISCO ZERO! 7 DIAS DE GARANTIA</span>
 </li>
 </ul>
 </div>
@@ -380,12 +381,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div class="elementor-element elementor-element-3ef719b3 elementor-widget elementor-widget-text-editor" data-id="3ef719b3" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p class="_4971">Esse treinamento te ensinará desde o ZERO, a conseguir clientes de alto padrão como Gestor de Tráfego, sem ter que fazer conteúdos ou investir em anúncios.<br>
-Você receberá o passo a passo para aprender a fazer os Anúncios Online e dominar a Gestão de Tráfego mesmo que você seja iniciante, além disso te enviaremos um Script completo para abordar, negociar e fechar contrato com empresas locais e digitais no mundo todo, nossos modelos de contrato, planilhas e ferramentas que você precisará para formalizar suas parcerias com empresas;<br>
-* Nossas recomendações de nichos de mercado que estão em alta em 2022;<br>
-* Um curso profissional para que você domine a criação de anúncios no Facebook e Google ADS;<br>
-* Estratégias e funis prontos para você entregar resultados eficazes que façam com que seus clientes continuem lhe pagando todos os meses.<br>
-</p></div>
+<p class="_4971">O Gerenciador de Anúncios é o seu ponto de partida para&nbsp; veicular anúncios no Facebook, no Instagram, no Messenger ou no Audience Network. Ele é uma ferramenta completa para criar anúncios, gerenciar quando e onde eles serão veiculados e acompanhar o desempenho das campanhas em relação às suas metas de marketing. Com o aplicativo do Gerenciador de Anúncios para iOS e Android, você pode ficar de olho na campanha em qualquer lugar. Você pode criar e editar anúncios onde estiver, além de gerenciar os orçamentos e as programações dos anúncios e acompanhar o desempenho deles.</p>						</div>
 </div>
 </div>
 </div>
@@ -421,11 +417,9 @@ Você receberá o passo a passo para aprender a fazer os Anúncios Online e domi
 <div class="elementor-element elementor-element-5a3dfb40 elementor-align-center elementor-widget elementor-widget-button" data-id="5a3dfb40" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
-<a href="https://sun.eduzz.com/1460812?a=23829759" target="" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<a href="#" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<link rel="" type="" href="https://sun.eduzz.com/1460812?a=23829759">
-<span class="elementor-button-text">QUERO APRENDER TUDO SOBRE TRAFEGO PAGO</span>
-</link>
+<span class="elementor-button-text">QUERO APRENDER TUDO SOBRE O FACEBOOK ADS</span>
 </span>
 </a>
 </div>
@@ -435,6 +429,8 @@ Você receberá o passo a passo para aprender a fazer os Anúncios Online e domi
 <div class="elementor-widget-container">
 <ul class="elementor-icon-list-items">
 <li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
 <span class="elementor-icon-list-text">RISCO ZERO! 7 DIAS DE GARANTIA.</span>
 </li>
 </ul>
@@ -463,17 +459,23 @@ Você receberá o passo a passo para aprender a fazer os Anúncios Online e domi
 </div>
 <div class="elementor-element elementor-element-b031e7e elementor-widget elementor-widget-text-editor" data-id="b031e7e" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p><span style="background-color: #e41f18; color: #ffffff;">&nbsp;ACESSO IMEDIATO COM 73% DE DESCONTO!!&nbsp;</span></p>						</div>
+<p><span style="background-color: #e41f18; color: #ffffff;">&nbsp;ACESSO IMEDIATO COM 50% DE DESCONTO!!&nbsp;</span></p>						</div>
 </div>
 <div class="elementor-element elementor-element-bd92073 elementor-widget elementor-widget-text-editor" data-id="bd92073" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-element elementor-element-3f3095e elementor-widget elementor-widget-text-editor" data-id="3f3095e" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div class="elementor-text-editor elementor-clearfix"><p><span style="color: #ffffff;"><strong>Últimos dias do Desconto de R$ 100</strong></span></p></div></div></div><div class="elementor-element elementor-element-127312a elementor-widget elementor-widget-text-editor" data-id="127312a" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div class="elementor-text-editor elementor-clearfix">&nbsp;</div></div></div>						</div>
+</div>
 <section class="elementor-section elementor-inner-section elementor-element elementor-element-730208f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="730208f" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-50e5793" data-id="50e5793" data-element_type="column">
 <div class="elementor-widget-wrap elementor-element-populated">
-
+<div class="elementor-element elementor-element-dc52f9f elementor-widget elementor-widget-text-editor" data-id="dc52f9f" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><span style="color: #ffffff;">de</span></p>						</div>
+</div>
 <div class="elementor-element elementor-element-94427a3 elementor-widget elementor-widget-text-editor" data-id="94427a3" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<span style="text-decoration: line-through; color: #ff0000;">R$ 750,00</span>						</div>
+<span style="text-decoration: line-through; color: #ff0000;">R$ 194,00</span>						</div>
 </div>
 <div class="elementor-element elementor-element-c160351 elementor-widget elementor-widget-text-editor" data-id="c160351" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
@@ -485,7 +487,7 @@ Você receberá o passo a passo para aprender a fazer os Anúncios Online e domi
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-20a648b elementor-widget elementor-widget-text-editor" data-id="20a648b" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p><span style="color: #ffffff;">197</span></p>						</div>
+<p><span style="color: #ffffff;">97</span></p>						</div>
 </div>
 </div>
 </div>
@@ -493,11 +495,15 @@ Você receberá o passo a passo para aprender a fazer os Anúncios Online e domi
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-9bffa45 elementor-widget elementor-widget-spacer" data-id="9bffa45" data-element_type="widget" data-widget_type="spacer.default">
 <div class="elementor-widget-container">
-<style>
-.e-container.e-container--row .elementor-spacer-inner{width:var(--spacer-size)}.e-container.e-container--column .elementor-spacer-inner,.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}</style>
-<div class="elementor-spacer">
-<div class="elementor-spacer-inner"></div> </div></div></div>
+<style>/*! elementor - v3.6.6 - 08-06-2022 */
+.e-container.e-container--row .elementor-spacer-inner{width:var(--spacer-size)}.e-container.e-container--column .elementor-spacer-inner,.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}</style>		<div class="elementor-spacer">
+<div class="elementor-spacer-inner"></div>
+</div>
+</div>
+</div>
 <div class="elementor-element elementor-element-c6c9e79 elementor-widget elementor-widget-text-editor" data-id="c6c9e79" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><span style="color: #ffffff;">,00</span></p>						</div>
 </div>
 </div>
 </div>
@@ -514,9 +520,9 @@ Você receberá o passo a passo para aprender a fazer os Anúncios Online e domi
 <div class="elementor-element elementor-element-53ff8b7 elementor-align-center elementor-widget elementor-widget-button" data-id="53ff8b7" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
-<a href="https://sun.eduzz.com/1460812?a=23829759" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<a href="#" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">QUERO TER UMA RENDA DE R$ 10 MIL</span>
+<span class="elementor-button-text">QUERO APRENDER TUDO SOBRE O FACEBOOK ADS</span>
 </span>
 </a>
 </div>
@@ -525,6 +531,14 @@ Você receberá o passo a passo para aprender a fazer os Anúncios Online e domi
 <div class="elementor-element elementor-element-91e2066 elementor-widget elementor-widget-text-editor" data-id="91e2066" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <div class="elementor-element elementor-element-47472ff elementor-widget elementor-widget-text-editor" data-id="47472ff" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div class="elementor-text-editor elementor-clearfix"><p><span style="color: #ffffff;"><strong>*Acesso Imediato Comprando no Cartão ou Pix, Boleto Leva 24 Horas</strong></span></p></div></div></div><div class="elementor-element elementor-element-2a702e6 elementor-widget elementor-widget-image" data-id="2a702e6" data-element_type="widget" data-widget_type="image.default"><div class="elementor-widget-container">&nbsp;</div></div>						</div>
+</div>
+<div class="elementor-element elementor-element-226d3eb elementor-view-default elementor-widget elementor-widget-icon" data-id="226d3eb" data-element_type="widget" data-widget_type="icon.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-wrapper">
+<div class="elementor-icon">
+<i aria-hidden="true" class="fas fa-hand-pointer"></i>			</div>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -573,7 +587,7 @@ Você receberá o passo a passo para aprender a fazer os Anúncios Online e domi
 <div class="elementor-element elementor-element-10e974d elementor-align-center elementor-widget elementor-widget-button" data-id="10e974d" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
-<a href="https://sun.eduzz.com/1460812?a=23829759" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<a href="#" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
 <span class="elementor-button-text">QUERO APRENDER TUDO SOBRE O FACEBOOK ADS</span>
 </span>
@@ -738,7 +752,7 @@ Você receberá o passo a passo para aprender a fazer os Anúncios Online e domi
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-dfb8690 elementor-widget elementor-widget-heading" data-id="dfb8690" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Copyright 2022 - iso profile ®
+<h2 class="elementor-heading-title elementor-size-default">Copyright 2022 - EV NEGÓCIOS DIGITAIS ®
 Todos os direitos reservados.</h2>		</div>
 </div>
 <div class="elementor-element elementor-element-6422afa elementor-widget elementor-widget-text-editor" data-id="6422afa" data-element_type="widget" data-widget_type="text-editor.default">
@@ -759,7 +773,7 @@ Todos os direitos reservados.</h2>		</div>
 </div>
 <div class="elementor-element elementor-element-d68317c elementor-widget elementor-widget-text-editor" data-id="d68317c" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>A venda do MILIONÁRIO COM ANÚNCIOS&nbsp; só pode ser realizada através deste site. Qualquer outro site onde você encontre este programa é uma FALSIFICAÇÃO e vai contra as leis. Evite falsificações e recuse conteúdos ilegais ou pirateados. NÃO adquira programas parecidos e que não são baseados em muito tempo de estudo da sedução. Não nos responsabilizamos por compras realizadas em outros sites.</p><p>Aviso: Este produto não garante a obtenção de resultados. Qualquer referência ao desempenho de uma estratégia não deve ser interpretada como uma garantia de resultados.</p>						</div>
+<p>A venda do TRAFEGO POWER&nbsp; só pode ser realizada através deste site. Qualquer outro site onde você encontre este programa é uma FALSIFICAÇÃO e vai contra as leis. Evite falsificações e recuse conteúdos ilegais ou pirateados. NÃO adquira programas parecidos e que não são baseados em muito tempo de estudo da sedução. Não nos responsabilizamos por compras realizadas em outros sites.</p><p>Aviso: Este produto não garante a obtenção de resultados. Qualquer referência ao desempenho de uma estratégia não deve ser interpretada como uma garantia de resultados.</p>						</div>
 </div>
 </div>
 </div>
@@ -837,7 +851,7 @@ skipLinkTarget.id = skipLinkTargetID;
 // Create the skip link.
 skipLink = document.createElement( 'a' );
 skipLink.classList.add( 'skip-link', 'screen-reader-text' );
-skipLink.href = 'https://sun.eduzz.com/1460812?a=23829759' + skipLinkTargetID;
+skipLink.href = '#' + skipLinkTargetID;
 skipLink.innerHTML = 'Saltar para o conteúdo';
 
 // Inject the skip link.
@@ -845,13 +859,11 @@ sibling.parentElement.insertBefore( skipLink, sibling );
 }() );
 </script>
 
-<link rel="" type="" href="wa.me/5528999497486">
-<div class="joinchat joinchat--right joinchat--btn joinchat--show joinchat--tooltip" data-settings="{&quot;telephone&quot;:&quot;5528999497486&quot;,&quot;mobile_only&quot;:false,&quot;button_delay&quot;:3,&quot;whatsapp_web&quot;:false,&quot;qr&quot;:false,&quot;message_views&quot;:2,&quot;message_delay&quot;:10,&quot;message_badge&quot;:false,&quot;message_send&quot;:&quot;Olá, vim por seu anuncio\n\nVou deixar abaixo o link para você nos conhecer\n\n\n\n*Se você tiver dúvidas, manda uma nova mensagem*&quot;,&quot;message_hash&quot;:&quot;&quot;}">
+<div class="joinchat joinchat--right joinchat--btn joinchat--show joinchat--tooltip" data-settings="{&quot;telephone&quot;:&quot;5571993567104&quot;,&quot;mobile_only&quot;:false,&quot;button_delay&quot;:3,&quot;whatsapp_web&quot;:false,&quot;qr&quot;:false,&quot;message_views&quot;:2,&quot;message_delay&quot;:10,&quot;message_badge&quot;:false,&quot;message_send&quot;:&quot;Olá, sou o Eric do Pages Pro\n\nVou deixar abaixo o link para você nos conhecer\n\nwww.pagespro.site\n\n*Se você tiver dúvidas, manda uma nova mensagem*&quot;,&quot;message_hash&quot;:&quot;&quot;}">
 <div class="joinchat__button">
 <div class="joinchat__button__open"></div>
 </div>
 </div>
-</link>
 <script src="https://pagespro.site/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=4.5.7" id="joinchat-js"></script>
 <script src="https://pagespro.site/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.2" id="elementor-pro-webpack-runtime-js"></script>
 <script src="https://pagespro.site/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.6" id="elementor-webpack-runtime-js"></script>
